@@ -123,7 +123,7 @@ Example `logo: 120x120.gif`
 
 Default teaser image used for posts and pages that do not have one assigned. This image shows up in the archive grid module. If can have whatever dimensions you want, I've found that an image with rectangular proportions work nicely. Like the site logo, place in `/images/`.
 
-Example `teaser: 400x250.gif`
+Example `teaser: 400x250.jpg`
 
 #### Site URL
 
@@ -227,7 +227,7 @@ image:
 
 ##### Teasers Images
 
-Teaser images appear on archive pages in the post grid and are also used in the off-canvas menu. If you don't assign a teaser image for a specific post or page, the default one will be used. The default image can be set in `_config.yml` under site wide configuration `teaser: 400x250.gif`. Teaser images should be roughly 400 x 250 pixels to scale comfortably across screen sizes.
+Teaser images appear on archive pages in the post grid and are also used in the off-canvas menu. If you don't assign a teaser image for a specific post or page, the default one will be used. The default image can be set in `_config.yml` under site wide configuration `teaser: 400x250.jpg`. Teaser images should be roughly 400 x 250 pixels to scale comfortably across screen sizes.
 
 <figure>
   <img src="{{ site.url }}/images/teaser-screenshot.jpg" alt="teaser image screenshot">
@@ -240,7 +240,7 @@ To assign a teaser image on a post use the following YAML:
 
 {% highlight yaml %}
 image:
-  teaser: 400x250.gif
+  teaser: 400x250.jpg
   feature: feature-image-filename.jpg
   credit: Michael Rose #name of the person or site you want to credit
   creditlink: http://mademistakes.com #url to their site or licensing
