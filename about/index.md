@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "About"
+title: "Porque?"
 date: 2014-06-02T09:44:20-04:00
 modified: 2014-08-27T14:56:44-04:00
-excerpt: "This is the Skinny Bones about page."
+excerpt: "De WDNica y esta gran aventura."
 image:
   feature:
   teaser:
@@ -12,6 +12,6 @@ share: false
 ads: false
 ---
 
-This is a work in progress.
+Este es y siempre será un trabajo en progreso.
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+En [WDNica](http://WDNica.com) nos apasiona mejorar. Por eso comenzamos con esta nueva aventura esperando poder devolver algo de la sabiduría que la internet nos a dado. Lean y sigan creciendo, al final es lo mismo.

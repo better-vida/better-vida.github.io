@@ -3,10 +3,16 @@
 - title: Home
   url: /
 
-- title: Getting Started
-  url: /getting-started/
+#- title: Comenzamos?
+#  url: /getting-started/
 
-- title: About
+- title: Vida
+  url: /vida/
+
+- title: Dinero
+  url: /dinero/
+
+- title: Porque?
   url: /about/
 
 - title: Terms
