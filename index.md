@@ -6,7 +6,7 @@ image:
 image:
   folder: 20141025
 tags: [wdnica, webdesgin, desarrollo web, pagina web, diseno web, marketing, emarketing, vida, negocios]
-excerpt: ""La perfección está en los detalles". WDNica."
+excerpt: "La perfección está en los detalles."
 author: admin
 ---
 
