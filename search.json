@@ -1,0 +1,19 @@
+---
+---
+[
+    {% for post in site.posts %}
+    {
+      "title"    : "{{ post.title }}",
+      "href"     : "{{ site.url }}{{ post.url }}",
+      "datetime": {{ post.date | date: "%Y-%m-%d" }},
+      "datePublished":{{ post.date | date: "%B %d, %Y" }},
+       "description": {{ post.excerpt | strip_html | truncate: 160 }},
+      {% if post.image.teaser %}
+      "src"      : {{ site.url }}/images/{{ post.image.teaser }}
+       {% else %}
+       "src"     : {{ site.url }}/images/{{ site.teaser }}
+       {% endif %},
+    }
+    {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]
