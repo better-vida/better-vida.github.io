@@ -50,14 +50,13 @@
     {% include header.html %}
     {% include navigation-sliding.html %}
 
-    <div id="backgroundimage" class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+    <div id="backgroundimage" class="page-lead" style=" ">
       <div class="wrap page-lead-content">
         <h1>Vida y Negocios</h1>
         <h2>"La perfección está en los detalles..." WDNica</h2>
         <a href="http://wdnica.com" class="btn-inverse">Estamos para servirte.</a>
       </div><!-- /.page-lead-content -->
     </div><!-- /.page-lead -->
-
     <div id="page-wrapper">
       {% include browser-upgrade.html %}
 
@@ -81,63 +80,11 @@
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
     <script src="{{ site.url }}/js/main.js"></script>
     <script src="{{ site.url }}/js/jstemplating.js"></script>
-    <script type="text/html" id="post_tmpl">
-        <article class="tile" itemscope itemtype="http://schema.org/Article">
-          <a href="<%=href%>" title="<%=title%>" class="post-teaser">
-            <img src="<%=src%>" alt="teaser" itemprop="image">
-          </a>
-          <p class="entry-date date published"><time datetime="<%=datetime%>" itemprop="datePublished"><%=datePublished%></time></p>
-          <h2 class="post-title" itemprop="name"><a href="<%=href%>"><%=title%></a></h2>
-          <p class="post-excerpt" itemprop="description"><%=description%></p>
-        </article><!-- /.tile -->
-    </script>
     <script type="text/javascript">
-    var images = ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg', '7.jpg', '8.jpg', '9.jpg', '10.jpg'];
-    $('#backgroundimage').css({'background-image': 'url({{ site.url }}/images/{{ page.image.folder }}/' + images[Math.floor(Math.random() * images.length)] + ')'});
-    function generateRandomPosts()
-    {
-        $.getJSON("{{ site.url }}/search.json", function(data) {
-            var postsCount = data.length;
-            var posts = data;
+      var num = Math.ceil( Math.random() * 10 );
+      $('#backgroundimage').css({'background-image':'url({{ site.url }}/images/{{ page.image.folder }}/'+num+'.jpg)'});
+    </script>
 
-            var randomIndexUsed = [];
-            var counter = 0;
-            var numberOfPosts = 8;
-
-            var divRandomPosts = $("#random_posts");
-
-//            divRandomPosts.append('<h2>other posts</h2><hr />');
-
-            while (counter < numberOfPosts)
-            {
-                var randomIndex = Math.floor(Math.random() * postsCount);
-
-                if (randomIndexUsed.indexOf(randomIndex) == "-1")
-                {
-//                    var postHREF = posts[randomIndex].href;
-//                    var postTitle = posts[randomIndex].title;
-
-                    if (counter == (numberOfPosts - 1))
-                    {
-                        divRandomPosts.append(tmpl("post_tmpl", posts[randomIndex]));
-                    }
-
-                    randomIndexUsed.push(randomIndex);
-
-                    counter++;
-                }
-            }
-        });
-    }
-
-    $(document).ready(function() {
-        generateRandomPosts();
-    });
-
-
-
-
-</script>
   </body>
 
 </html>

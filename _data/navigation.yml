@@ -15,6 +15,11 @@
 #  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
 #  image: 400x250.jpg
 
+- title: Lo último
+  url: /lo-ultimo/
+  excerpt: "Lo último en información."
+  image: 400x250.jpg
+
 - title: Vida
   url: /vida/
   excerpt: "De la Vida y como disfrutarla."

@@ -249,10 +249,10 @@
 .page-lead-content {
 	padding: 1em;
 	@include media($medium) {
-		padding: 2em;
+		padding: 5em;
 	}
 	@include media($large) {
-		padding: 3em;
+		padding: 6em;
 	}
 	h1 {
 		@include font-size(48);
