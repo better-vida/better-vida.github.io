@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Vida y Negocios
-description: "De lo que hemos aprendido para todos"
+title: Life and Business
+description: "Keep learning..."
 logo: 120x120.png
 teaser: 400x250.jpg
 locale: en_US 
-url: //jairofloress.github.io/money
+url: //lifenbiz.club
 encoding: "utf-8"
 
 # Jekyll configuration
