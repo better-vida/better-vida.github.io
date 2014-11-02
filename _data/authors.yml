@@ -1,6 +1,6 @@
 # Authors
 
-jairo_flores:
+admin:
   name: Jairo Flores
   #web: http://jairofloress.github.com
   email: jairofloress@gmail.com
@@ -9,12 +9,3 @@ jairo_flores:
   #twitter: extravagantman
   google:
     plus: +JairoFloresS
-
-admin:
-  name: WDNica
-  email: admin@wdnica.com
-  bio: "Estás leyendo?"
-  avatar: 120x120.png
-  twitter: wdnica
-  google:
-    plus: +WDNica    

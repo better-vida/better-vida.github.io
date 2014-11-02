@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "De la Vida y como disfrutarla."
+title: "About life and how to enjoy it."
 date: 2014-10-22T12:10:45-04:00
 modified:
-excerpt: "Para disfrutar la Vida hay que saber vivirla."
+excerpt: "To enjoy life you don't need to be an expert."
 tags: []
 image:
   feature:
@@ -11,7 +11,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.vida %}
+{% for post in site.categories.life %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
