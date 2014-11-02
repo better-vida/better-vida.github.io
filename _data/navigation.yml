@@ -15,22 +15,27 @@
 #  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
 #  image: 400x250.jpg
 
-- title: Lo último
-  url: /lo-ultimo/
-  excerpt: "Lo último en información."
+- title: Newest
+  url: /newest/
+  excerpt: "The Newest from the newest"
   image: 400x250.jpg
 
-- title: Vida
-  url: /vida/
-  excerpt: "De la Vida y como disfrutarla."
+- title: Life
+  url: /life/
+  excerpt: "About life and how enjoy it."
   image: 400x250.jpg
 
-- title: Negocios
-  url: /negocios/
-  excerpt: "Del Dinero y como conseguirlo."
+- title: Business
+  url: /business/
+  excerpt: "About business and how to be the man!"
   image: 400x250.jpg
 
-- title: Porque?
+- title: Technology
+  url: /technology/
+  excerpt: "Make technology be your slave"
+  image: 400x250.jpg
+
+- title: Why?
   url: /about/
-  excerpt: "De WDNica y esta gran aventura."
+  excerpt: "Why we do this?"
   image: 400x250.jpg

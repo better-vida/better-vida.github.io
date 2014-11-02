@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Lo último..."
+title: "Latest entries..."
 date: 2014-10-26T23:55:45-04:00
 modified:
-excerpt: "Lo último en información."
+excerpt: "Keep informed."
 tags: [vida, negocios]
 image:
   feature:
@@ -11,7 +11,7 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.lo-ultimo %}
+{% for post in site.categories.latest %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->

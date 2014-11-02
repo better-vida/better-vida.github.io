@@ -6,16 +6,19 @@
 #- title: Comenzamos?
 #  url: /getting-started/
 
-- title: Lo último
-  url: /lo-ultimo/
+- title: Newest
+  url: /newest/
 
-- title: Vida
+- title: Life
   url: /vida/
 
-- title: Negocios
-  url: /negocios/
+- title: Business
+  url: /business/
 
-- title: Porque?
+- title: Technology
+  url: /technology/
+
+- title: Why?
   url: /about/
 
 - title: Terms
