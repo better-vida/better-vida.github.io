@@ -10,11 +10,8 @@ share: true
 toc: true
 comments: true
 tags:[life, healt, acid-reflux]
-image:
-  feature: http://static01.nyt.com/images/2014/10/26/sunday-review/26MEAL/26MEAL-master675.jpg
-  teaser: http://img.readitlater.com/i/static01.nyt.com/images/2014/10/26/sunday-review/26MEAL/26MEAL-master675/RS/w426.jpg
-  credit: Ben Sanders
 ---
+
 
 [ACID REFLUX](http://health.nytimes.com/health/guides/disease/gastroesophageal-reflux-disease/overview.html?inline=nyt-classifier) is an epidemic affecting as many as 40 percent of Americans. In addition to heartburn and indigestion, reflux symptoms may include postnasal drip, hoarseness, difficulty swallowing, chronic throat clearing, coughing and asthma. Taken together, sales of prescribed and over-the-counter anti-reflux medications exceed $13 billion per year.
 
