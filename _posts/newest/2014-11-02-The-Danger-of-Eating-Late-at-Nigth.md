@@ -7,7 +7,6 @@ author: "JAMIE A. KOUFMAN"
 date: 2014-10-25
 ads: true
 share: true
-toc: true
 comments: true
 tags:[life, healt, reflux]
 image:
