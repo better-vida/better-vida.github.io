@@ -10,9 +10,10 @@ share: true
 comments: true
 tags:[life, healt, reflux]
 image:
-  feature: http://static01.nyt.com/images/2014/10/26/sunday-review/26MEAL/26MEAL-master675.jpg
-  teaser: http://img.readitlater.com/i/static01.nyt.com/images/2014/10/26/sunday-review/26MEAL/26MEAL-master675/RS/w426.jpg
-  credit: Ben Sanders
+  feature: 1.jpg
+  teaser: lock-400x250.jpg
+  credit: Michael Rose
+  creditlink: http://mademistakes.com
 ---
 
 
