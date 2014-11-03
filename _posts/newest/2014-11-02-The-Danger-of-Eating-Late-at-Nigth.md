@@ -7,7 +7,7 @@ author: "JAMIE A. KOUFMAN"
 ads: true
 share: true
 comments: true
-tags:[life, healt, reflux]
+tags: life
 image:
   feature: 1.jpg
   teaser: lock-400x250.jpg
