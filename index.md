@@ -10,7 +10,7 @@ author: admin
 ---
 
 <div class="bullets">
-	{% for post in site.categories.latest %}
+	{% for post in site.categories.newest %}
 	<div class="bullet three-col-bullet">
 		<div class="bullet-icon">
 			<a href="{{ site.url }}{{ post.url }}"><img src="{{ site.url }}/images/{{ post.image.teaser }}" alt=""></a>
