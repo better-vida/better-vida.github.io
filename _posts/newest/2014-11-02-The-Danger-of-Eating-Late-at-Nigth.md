@@ -9,8 +9,8 @@ share: true
 comments: true
 tags: life
 image:
-  feature: (http://static01.nyt.com/images/2014/10/26/sunday-review/26MEAL/26MEAL-master675.jpg)
-  teaser: (http://img.readitlater.com/i/static01.nyt.com/images/2014/10/26/sunday-review/26MEAL/26MEAL-master675/RS/w426.jpg)
+  feature: [1](http://static01.nyt.com/images/2014/10/26/sunday-review/26MEAL/26MEAL-master675.jpg)
+  teaser: [2](http://img.readitlater.com/i/static01.nyt.com/images/2014/10/26/sunday-review/26MEAL/26MEAL-master675/RS/w426.jpg)
   credit: Ben Sanders
 ---
 
