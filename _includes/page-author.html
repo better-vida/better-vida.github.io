@@ -1,6 +1,8 @@
-{% if page.authorExt %}{% assign author = page.authorExt %}{% endif %}
-{% if page.author %}
-{% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+{% if page.authorExt %}{% assign author = page.authorExt %}
+{% else %}
+	{% if page.author %}
+	{% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+	{% endif %}
 {% endif %}
 
 <div class="author-image">
