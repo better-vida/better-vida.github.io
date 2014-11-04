@@ -6,6 +6,7 @@ logo: 120x120.png
 teaser: 400x250.jpg
 locale: en_US 
 url: //jairofloress.github.io/lifenbiz.github.io
+disqus-shortname: siemprecreciendo
 
 # Jekyll configuration
 
@@ -31,7 +32,6 @@ owner:
     plus: +WDNicaWebDesignNica
     ad-client: ca-pub-2974536034521527
     ad-slot: 2949192090
-  disqus-shortname: siemprecreciendo
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
