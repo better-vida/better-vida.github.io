@@ -1,47 +1,35 @@
 ---
-layout: media
-title: "The Dangers of Eating Late at Night"
+layout: article
+title: "Five ways to improve your productivity"
 categories: newest
-excerpt: "ACID REFLUX is an epidemic affecting as many as 40 percent of Americans."
-author: "JAMIE A. KOUFMAN"
-date: 2014-10-25
+excerpt: "Manage your energy to get the most out of your day"
+author: "Wendy Cuthbert"
+date: 2014-09-29
 ads: true
 share: true
 toc: true
 comments: true
-tags:[life, healt, acid-reflux]
-image:
-  feature: http://static01.nyt.com/images/2014/10/26/sunday-review/26MEAL/26MEAL-master675.jpg
-  teaser: http://img.readitlater.com/i/static01.nyt.com/images/2014/10/26/sunday-review/26MEAL/26MEAL-master675/RS/w426.jpg
-  credit: Ben Sanders
+tags:[business, productivity]
 ---
 
-[ACID REFLUX](http://health.nytimes.com/health/guides/disease/gastroesophageal-reflux-disease/overview.html?inline=nyt-classifier) is an epidemic affecting as many as 40 percent of Americans. In addition to heartburn and indigestion, reflux symptoms may include postnasal drip, hoarseness, difficulty swallowing, chronic throat clearing, coughing and asthma. Taken together, sales of prescribed and over-the-counter anti-reflux medications exceed $13 billion per year.
-
-The number of people with acid reflux has grown significantly in recent decades. Reflux can lead to esophageal cancer, which has increased by about 500 percent since the 1970s. And anti-reflux medication alone does not appear to control reflux disease. A Danish study published this year concluded that there were no cancer-protective effects from using the common anti-reflux medications, called proton pump inhibitors, and that regular long-term use was actually associated with an increased risk of developing esophageal cancer.
-
-What is responsible for these disturbing developments? The answer is our poor diet, with its huge increases in the consumption of sugar, soft drinks, fat and processed foods. But there is another important variable that has been underappreciated and overlooked: our dinnertime.
-
-I specialize in the diagnosis and management of acid reflux, especially airway reflux, which affects the throat, sinuses and lungs. Airway reflux is often “silent,” occurring without telltale digestive symptoms, like heartburn and indigestion. Most of the tens of thousands of reflux patients that I have seen over the last 35 years are well today because I treat reflux by modifying my patients’ diets and lifestyles.
-
-Over the past two decades, I’ve noticed that the time of the evening meal has been trending later and later among my patients. The after-work meal — already later because of longer work hours — is often further delayed by activities such as shopping and exercise.
-
-Typical was the restaurateur who came to see me with symptoms of postnasal drip, sinus disease, hoarseness, heartburn and a chronic cough. He reported that he always left his restaurant at 11 p.m., and after arriving home would eat dinner and then go to bed. There was no medical treatment for this patient, no pills or even surgery to fix his condition. The drugs we are using to treat reflux don’t always work, and even when they do, they can have dangerous side effects. My patient’s reflux was a lifestyle problem. I told him he had to eat dinner before 7 p.m., and not eat at all after work. Within six weeks, his reflux was gone.
-
-In my experience, the single most important intervention is to eliminate late eating, which in the United States is often combined with portions of large, over-processed, fatty food. Europeans have fewer cases of reflux than we do, even though many of them eat late. That’s most likely from portion control. In France, for example, a serving of ice cream is typically a single modest scoop, while in America, it’s often three gargantuan scoops.
-
-For my patients, eating late is often accompanied by overeating, because many skip breakfast and eat only a sandwich at lunch. Thus the evening meal becomes the largest meal of the day. After that heavy meal, it’s off to the sofa to watch television. After eating, it’s important to stay upright because gravity helps keep the contents in the stomach. Reflux is the result of acid spilling out of the stomach, and lying down with a full stomach makes reflux much more likely.
-
-And if you add an after-dinner dessert or bedtime snack? Again, reflux is a natural consequence. In a healthy young person, the stomach normally takes a few hours to empty after a moderate-size meal. In older people or those who have reflux, gastric emptying is often delayed. Further, those dessert calories tend to be high in carbohydrates and fat, and high-fat foods often create reflux by slowing digestion and relaxing the stomach valve that normally prevents reflux. Other popular but notoriously bad-for-nighttime-reflux foods and beverages are mints, chocolate, soft drinks and alcohol.
-
-Many of my patients find that eating earlier alleviates their allergies, sinusitis, asthma, sleep apnea and diabetes symptoms. Although these conditions may not seem linked, postnasal drip and a cough are typical reflux symptoms that can easily be mistaken for something else.
-
-Some of my patients who arrive complaining of reflux already eat healthfully. For them, dining too late is often the sole cause of their problem. And yet, hearing that they need to change the timing of their meals is sometimes a challenge they cannot meet.
-
-A New Yorker with reflux came to see me because both her father and uncle died of esophageal cancer and she was afraid of getting it, too. This patient was a prominent businesswoman and her nightly routine included a 9 p.m. dinner at an elegant restaurant with at least two bottles of good red wine for the table. Her reflux was serious, and I explained that changes were needed.
-
-She listened, then left and did not come back to see me for a year. When I saw her again, she explained what had happened. “For the first two months I just hated you,” she told me, “and then for the next two months — I was having some trouble swallowing — I figured I was going to die of esophageal cancer.” Then she nudged me and added, “You know, we’re the reason that it’s not so easy to get 6 p.m. reservations at the good restaurants anymore.”
-
-To stop the remarkable increase in reflux disease, we have to stop eating by 8 p.m., or whatever time falls at least three hours before bed. For many people, eating dinner early represents a significant lifestyle shift. It will require eating well-planned breakfasts, lunches and snacks, with healthy food and beverage choices.
-
-Published by [The New York Times](http://www.nytimes.com/2014/10/26/opinion/sunday/the-dangers-of-eating-late-at-night.htm)
+If you have ever ended a workday with virtually the same to-do list you had that morning, you know that being productive at the office can sometimes be a struggle.
+Distractions — many of which stem from the same technology that's designed to make us more efficient — abound. And good intentions are often not enough to complete our work. But there are strategies and tools you can use to ensure that your energy and attention remain focused on your important business tasks.
+1. Audit your energy
+George Torok, a business coach based in Burlington, Ont., says productivity is not about managing time as much as it is about managing energy. And everyone has different energy cycles.
+"Each person has to discover [his or her] own energy peaks and lows throughout the day," Torok says.
+Understanding your own energy cycle makes it easier to map out a day that is more productive.
+"You can't keep working at the same pace on a particular task and be productive all day long," Torok says.
+Also, recognize that your energy fluctuations can change over time, depending on your age and your health.
+2. Move it
+We are animals and we're designed to move. Forcing yourself to work on a project nonstop — and deskbound — will guarantee less-than-stellar work, Torok says.
+At least once every hour, you should get up and move around. Running up some stairs, walking around the office and stretching will all increase your intake of oxygen, providing an energy surge. "You need that mental break," Torok adds.
+3. Get a water boost
+While the go-to energy drink for most people is caffeine-based, water has its own special properties that make it the ideal beverage to increase vigour.
+Up to 60% of the human adult body is water, and downing a few glasses of water throughout the day can help battle dehydration, a certain energy-sapper from which many of us unknowingly suffer.
+4. Schedule your distractions
+Pretending that YouTube doesn't exist or that your news feed is down might work over the short term. But the best way to combat the lure of the Internet is by scheduling time to spend on your diversions, according to Torok: "Give yourself an allowance."
+Try a time-management app to track how you are spending your time, especially online. These tools make it impossible for you to lie to yourself about your productivity. 
+5. Take a coffee nap
+The latest buzz in productivity research is the so-called "coffee nap." Scientists have discovered that drinking a cup of coffee and then napping for 20 minutes is more effective than doing either solo.
+It takes about 30 minutes for the brain receptors to fill up with caffeine, which causes them to block the lethargy-causing molecule adenosine that naturally builds up in our cells throughout the day. If you can swing it, drink a coffee, then take a 20-minute nap. The caffeine and the benefits of the nap should be kicking is as you wake up.
+Published by [Investment Executive](http://www.investmentexecutive.com/-/five-ways-to-improve-your-productivity)
