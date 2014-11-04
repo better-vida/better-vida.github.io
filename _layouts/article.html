@@ -7,8 +7,13 @@ layout: default
 		{% if page.image.feature %}
 		<div class="page-feature">
 			<div class="page-image">
+				{% if page.imageExt %}
+				<img src="{{ page.imageExt.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				{% if page.imageExt.credit %}{% include image-credit.html %}{% endif %}
+				{% else %}
 				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
 				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+				{% endif %}
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
 		{% endif %}
