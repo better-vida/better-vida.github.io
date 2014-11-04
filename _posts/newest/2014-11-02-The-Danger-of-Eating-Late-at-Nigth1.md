@@ -9,7 +9,8 @@ ads: true
 share: true
 toc: true
 comments: true
-tags:[business, productivity]
+tags: business, productivity
+
 ---
 
 If you have ever ended a workday with virtually the same to-do list you had that morning, you know that being productive at the office can sometimes be a struggle.
