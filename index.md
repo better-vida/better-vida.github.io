@@ -8,5 +8,5 @@ image:
 tags: [wdnica, webdesgin, desarrollo web, pagina web, diseno web, marketing, emarketing, vida, negocios, life, business, tecnologia, technology, html5, lifenbiz, life-and-business, vida-y-negocios]
 author: admin
 ---
-
-  {% include latest-posts-grid.html %}
+{% assign page.categories = "life" %}
+  {% include latest-posts-list.html %}
