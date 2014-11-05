@@ -15,11 +15,6 @@
 #  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
 #  image: 400x250.jpg
 
-- title: Newest
-  url: /newest/
-  excerpt: "The Newest from the newest"
-  image: 400x250.jpg
-
 - title: Life
   url: /life/
   excerpt: "About life and how enjoy it."
@@ -33,9 +28,4 @@
 - title: Technology
   url: /technology/
   excerpt: "Make technology be your slave"
-  image: 400x250.jpg
-
-- title: Why?
-  url: /about/
-  excerpt: "Why we do this?"
   image: 400x250.jpg
