@@ -10,13 +10,7 @@
 
     {% include open-graph.html %}
     {% if author.google.plus %}<link rel="author" href="https://plus.google.com/{{ author.google.plus }}"/>{% endif %}
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Rancho&effect=shadow-multiple|3d-float">
-    <style>
-      body {
-        font-family: 'Rancho', serif;
-        font-size: 48px;
-      }
-    </style>
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:900&effect=shadow-multiple|3d-float">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
     <link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
