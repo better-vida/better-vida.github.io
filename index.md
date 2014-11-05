@@ -9,8 +9,4 @@ tags: [wdnica, webdesgin, desarrollo web, pagina web, diseno web, marketing, ema
 author: admin
 ---
 
-<div class="tiles">
-{% for post in site.categories.newest %}
   {% include latest-posts-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
