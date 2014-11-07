@@ -7,6 +7,9 @@ teaser: 400x250.jpg
 locale: en_US 
 url: //lifenbiz.club
 disqus-shortname: siemprecreciendo
+image:
+  folder: 20141105
+
 
 # Jekyll configuration
 

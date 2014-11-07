@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: "Five ways to improve your productivity"
 categories: business
 excerpt: "Manage your energy to get the most out of your day"

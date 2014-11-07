@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: "The Dangers of Eating Late at Night"
 categories: life
 excerpt: "ACID REFLUX is an epidemic affecting as many as 40 percent of Americans."

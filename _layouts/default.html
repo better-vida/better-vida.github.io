@@ -63,6 +63,11 @@
 
     <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
     <script src="{{ site.url }}/js/main.js"></script>
+
+    <script type="text/javascript">
+      var num = Math.ceil( Math.random() * 759 );
+      $('#page-feature-image').attr('src','{{ site.url }}/images/{{ site.image.folder }}/'+num+'.jpg');
+    </script>
     
     {% if page.toc == true %}
     <script type="text/javascript">

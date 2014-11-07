@@ -4,19 +4,11 @@ layout: default
 
 <div id="main" role="main">	
 	<article class="wrap" itemscope itemtype="http://schema.org/Article">
-		{% if page.image.feature %}
 		<div class="page-feature">
 			<div class="page-image">
-				{% if page.imageExt %}
-				<img src="{{ page.imageExt.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
-				{% if page.imageExt.credit %}{% include image-credit.html %}{% endif %}
-				{% else %}
-				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
-				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
-				{% endif %}
+				<img src=" " id="page-feature-image" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
 			</div><!-- /.page-image -->
 		</div><!-- /.page-feature -->
-		{% endif %}
 		{% if page.categories %}{% include breadcrumbs.html %}{% endif %}
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>

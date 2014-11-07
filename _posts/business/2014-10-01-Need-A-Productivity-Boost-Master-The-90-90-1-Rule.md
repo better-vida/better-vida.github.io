@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title: "Need A Productivity Boost? Master The 90/90/1 Rule"
 categories: business
 excerpt: "The 90/90/1 Rule For Power Productivity"
