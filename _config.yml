@@ -16,7 +16,7 @@ image:
 sass:
   sass_dir: _sass
   style: compressed
-permalink: /:categories/:title/
+permalink: /:categories/:title
 markdown: kramdown
 highlighter: pygments
 gems:
