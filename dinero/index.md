@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sites to make money on internet"
+title: "Lista de sitios para ganar dinero en internet"
 date: 2014-11-16T11:40:45-04:00
 ads: true
 tags: [dinero-gratis, free-money, ptc]
