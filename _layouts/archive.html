@@ -20,6 +20,7 @@ layout: default
 			<div class="page-content">
 				{{ content }}
 			</div><!-- /.page-content -->
+		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
 		</div class="archive-wrap"><!-- /.archive-wrap -->
 	</div><!-- /.wrap -->
 </div><!-- /#main -->
