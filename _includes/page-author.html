@@ -1,7 +1,8 @@
-{% if page.authorExt %}{% assign author = page.authorExt %}
+{% if page.authorExt %}
+	{% assign author = page.authorExt %}
 {% else %}
 	{% if page.author %}
-	{% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
+		{% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
 	{% endif %}
 {% endif %}
 {% if autor.avatar %}
