@@ -1,9 +1,5 @@
-{% if page.authorExt %}
-	{% assign author = page.authorExt %}
-{% else %}
-	{% if page.author %}
-		{% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
-	{% endif %}
+{% if page.author %}
+	{% assign author = page.author %}{% else %}{% assign author = site.owner %}
 {% endif %}
 {% if autor.avatar %}
 <div class="author-image">
@@ -11,6 +7,8 @@
 </div><!-- ./author-image -->
 {% endif %}
 <div class="author-content">
-	<h3 class="author-name" >Written by {% if author.web %}<a href="{{ author.web }}" itemprop="author">{{ author.name }}</a>{% else %}<span itemprop="author">{{ author.name }}</span>{% endif %}</h3>
+	<h2 class="author-name" >Written by {% if author.web %}<a href="{{ author.web }}" itemprop="author">{{ author.name }}</a>{% else %}<span itemprop="author">{{ author.name }}</span>{% endif %}
+	</h2>
 	<p class="author-bio">{{ author.bio }}</p>
 </div><!-- ./author-content -->
+

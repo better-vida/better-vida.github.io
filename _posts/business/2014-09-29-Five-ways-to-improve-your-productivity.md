@@ -3,7 +3,7 @@ layout: media
 title: "Five ways to improve your productivity"
 categories: business
 excerpt: "Manage your energy to get the most out of your day"
-authorExt: 
+author: 
   name: "Wendy Cuthbert"
 date: 2014-09-29
 ads: true
