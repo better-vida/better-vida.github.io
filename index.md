@@ -11,7 +11,3 @@ author: admin
 
 {% assign category_name = "business" %}
   {% include latest-posts-list-by-category.html %}
-
-{% assign category_name = "technology" %}
-  {% include latest-posts-list-by-category.html %}
-
