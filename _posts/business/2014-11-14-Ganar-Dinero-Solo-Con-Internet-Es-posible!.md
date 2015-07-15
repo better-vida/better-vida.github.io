@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: media
 title:  "Ganar Dinero Solo Con Internet... Es Posible?"
 categories: business
 modified: 2014-11-14
