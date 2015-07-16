@@ -1,4 +1,3 @@
-
 ---
 layout: article
 title: "29 Reasons to Start a Blog Today"
@@ -72,3 +71,5 @@ Published by [Linkedin](https://www.linkedin.com/pulse/20130804040112-52397036-2
 [11]: http://www.linkedin.com/profile/view?id=52397036&amp;authType=name&amp;authToken=aup6&amp;trk=mp-ph-pn
 [12]: https://twitter.com/claire
   
+
+
