@@ -1,7 +1,7 @@
 # Skinny Bones Gemfile
 source "https://rubygems.org"
 
-gem "github-pages", '~> 38'
+gem "github-pages", '~> 30'
 #gem "jekyll-sitemap"
 #gem 'jekyll-sitemap', '~> 0.6.1'
 gem "sass"
