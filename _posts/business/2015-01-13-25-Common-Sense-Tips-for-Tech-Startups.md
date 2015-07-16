@@ -5,7 +5,7 @@ categories: business
 excerpt: "Whether you are long developer building a web app or a small team of young entrepreneurs working on the next big thing, here are some simple tips and advice that should help bring more people to your product."
 author: 
   name: "Amit Agarwal"
-date: 
+date: 2015-07-15
 ads: true
 share: true
 toc: false
