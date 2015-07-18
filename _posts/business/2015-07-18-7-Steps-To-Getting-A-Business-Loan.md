@@ -14,10 +14,6 @@ tags: business, productivity, business loans, business loan, unsecured business 
 
 ---
 
-[Source](http://www.forbes.com/sites/aileron/2014/10/02/7-steps-to-getting-a-business-loan/ "Permalink to 7 Steps To Getting A Business Loan")
-
-# 7 Steps To Getting A Business Loan
-
 While it is not as easy as it once was before the Great Recession, all banks and other lenders still need to loan money to small [business][1]. The key is to know how to do it and get the best terms. Here is a simple 7 step process:
 
 Step 1: Start before the loan is needed. It is critical to build a relationship with the people at the lender before the business actually needs the loan. Let the key contacts get to know the company before asking for anything. Remember, people do business with who they know, like, and trust. Lenders work the same way.
@@ -52,6 +48,9 @@ Remember that lenders will be searching a small business owners' personal social
 Step 7: Wait.&nbsp;Expect to get an answer within two to four weeks. Check in each week for a status. It is typical that the lending institution will need additional documentation.
 
 Have you been successful in getting a business loan? If so, tell us how and who was the lender.
+
+
+[Source](http://www.forbes.com/sites/aileron/2014/10/02/7-steps-to-getting-a-business-loan/ "Permalink to 7 Steps To Getting A Business Loan")
 
 [1]: http://www.forbes.com/business/
 [2]: http://www.forbes.com/risk/

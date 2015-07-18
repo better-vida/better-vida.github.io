@@ -55,7 +55,7 @@ Here are 29 reasons why:
 
 So go ahead, do it. Your future self might just thank you.
 
-Published by [Linkedin](https://www.linkedin.com/pulse/20130804040112-52397036-29-reasons-to-start-a-blog-today "Permalink to 29 Reasons to Start a Blog Today | Claire Diaz-Ortiz")
+Published by [Linkedin](https://www.linkedin.com/pulse/20130804040112-52397036-29-reasons-to-start-a-blog-today)
 
 
 [1]: https://media.licdn.com/mpr/mpr/p/2/000/2c4/0f8/20d92a7.png

@@ -13,11 +13,6 @@ comments: true
 tags: auto insurance quotes, auto insurance quote, auto insurance quotes online, cheap auto insurance quotes, free auto insurance quotes, compare auto insurance quotes, auto quotes, insurance Broad, online auto insurance quotes, insurance quotes auto, online auto insurance quote, auto insurance quote online, auto insurance quote comparison
 ---
 
-
-Published by [Confused.com](http://www.confused.com/car-insurance/guides/how-car-insurance-is-calculated "Permalink to How is car insurance calculated?")
-
-# How is car insurance calculated?
-
 ## **The top 10 factors which affect car insurance prices**
 
 ****
@@ -99,6 +94,8 @@ The named drivers on your insurance policy can cause premiums to rise and fall. 
 Statistics show that women are less likely to be in a serious accident than men, and that the claims they make are less expensive. This has long been reflected in lower premiums for female drivers in general. This ban on gender pricing came into effect on 21 December 2012. This caused insurance premiums to rise chiefly among younger women.
 
 However, the European Court of Justice has issued a ban on using sex as a factor in setting premiums. This came into effect on 21 December 2012, and caused car insurance to rise chiefly among younger women.
+
+Published by [Confused.com](http://www.confused.com/car-insurance/guides/how-car-insurance-is-calculated "Permalink to How is car insurance calculated?")
 
 [1]: http://www.confused.com/~/media/article-images/Motoring/letterbox/young-driver.jpg
 [2]: /car-insurance/articles/10-cheaper-car-insurance-tips-for-new-drivers
