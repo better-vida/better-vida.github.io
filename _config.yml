@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: lifenbiz.club
+title: Better-vida.com
 description: "Keep learning..."
 logo: 120x120.png
 teaser: 400x250.jpg
 locale: en_US 
-url: //lifenbiz.club
+url: //better-vida.com
 disqus-shortname: siemprecreciendo
 image:
   folder: 20141105
@@ -18,7 +18,7 @@ sass:
   style: compressed
 permalink: /:categories/:title
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-sitemap
 
@@ -31,10 +31,10 @@ owner:
   twitter: wdnica
 #  bio: "Just another boring, tattooed, time traveling designer."
 #  avatar: bio-photo.jpg # 160x160 px image for author byline
-  google:
-    plus: +WDNicaWebDesignNica
-    ad-client: ca-pub-2974536034521527
-    ad-slot: 2949192090
+  # google:
+  #   plus: +WDNicaWebDesignNica
+  #   ad-client: ca-pub-2974536034521527
+  #   ad-slot: 2949192090
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

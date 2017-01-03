@@ -7,6 +7,6 @@ gem 'public_suffix', '~> 1.4.6'
 #gem 'jekyll-sitemap', '~> 0.6.1'
 gem "sass"
 #gem "bourbon"
-#gem "neat"
+gem "rouge"
 gem 'octopress', '~> 3.0.11'
 #gem 'octopress', '~> 3.0.0.rc.12'
