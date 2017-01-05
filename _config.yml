@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Better-vida.com
-description: "Keep learning..."
+title: Familia Sana
+description: "Familia Sana"
 logo: 120x120.png
 teaser: 400x250.jpg
 locale: en_US 
-url: //better-vida.com
+url: //familiasana.info
 disqus-shortname: siemprecreciendo
 image:
   folder: 20141105
