@@ -15,17 +15,17 @@
 #  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
 #  image: 400x250.jpg
 
-- title: Life
-  url: /life/
-  excerpt: "About life and how enjoy it."
-  image: 400x250.jpg
+- title: Familia
+  url: /familia/
+  excerpt: "Familia"
+  #image: 400x250.jpg
 
-- title: Business
-  url: /business/
-  excerpt: "About business and how to be the man!"
-  image: 400x250.jpg
+- title: Hijos
+  url: /hijos/
+  excerpt: "Hijos"
+  #image: 400x250.jpg
 
 - title: Suscribe
   url: https://tinyletter.com/lifenbiz
   excerpt: "Suscribe to our newsletter"
-  image: 400x250.jpg
+  #image: 400x250.jpg

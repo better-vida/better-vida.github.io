@@ -1,15 +1,15 @@
 # Footer navigation links
 
-- title: Home
+- title: Inicio
   url: /
 
-- title: Life
-  url: /life/
+- title: Familia
+  url: /familia/
 
-- title: Business
-  url: /business/
+- title: Hijos
+  url: /hijos/
 
-- title: Why?
+- title: Porque?
   url: /about/
 
 - title: Terms
