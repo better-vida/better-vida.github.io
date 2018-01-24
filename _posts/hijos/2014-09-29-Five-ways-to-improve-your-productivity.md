@@ -1,7 +1,7 @@
 ---
 layout: media
 title: "Five ways to improve your productivity"
-categories: business
+categories: hijos
 excerpt: "Manage your energy to get the most out of your day"
 author: 
   name: "Wendy Cuthbert"
