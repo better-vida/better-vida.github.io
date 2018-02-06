@@ -3,7 +3,7 @@ layout: home
 permalink: /
 image:
   feature: wood-texture-1600x800.jpg
-tags: [wdnica, webdesgin, desarrollo-web, pagina-web, diseno-web, marketing, emarketing, vida, negocios, life, business, tecnologia, technology, html5, lifenbiz, life-and-business, vida-y-negocios, productivity, management, starup, fitness, health]
+tags: [famila, hijos, padres, ninos, niños, ninas, niñas, adolecentes, infantil, cuidado, educación, educacion, salud, cuidado infantil, aprendizaje, cuidado materno, matenidad, escuela, tareas, dinero, finanzas, hogar, administrar, casa, bebe, bebé, vida, cuidado del hogar, aprendizaje, moda, cuidado personal, ejercicio, tareas, escolar, enfermedad, enfermedades]
 author: admin
 ---
 <!-- {% assign category_name = "life" %}
@@ -26,7 +26,7 @@ bottom: 0.3em;
 {% for post in site.posts limit:20 %}
 <li>
 {% if post.date %}
-<span>{{ post.date | date: "%B %d, %Y" }}</span> &raquo; 
+<span>{{ post.date | date: "%B %d, %Y" }}</span> &raquo;
 {% endif %}
 <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
 <span class="supcategory">{{ post.categories | first }}</span>
