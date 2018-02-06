@@ -14,9 +14,9 @@ tags: niños,apredizaje, inteligencia, aprendizaje, problemas, educación, estud
 
 ---
 
-Los problemas de aprendizaje afectan a 1 de cada 10 niños en edad escolar. Estos problemas pueden ser detectados en los niños a partir de los 5 años de edad y constituyen una gran preocupación para muchos padres, ya que afectan al rendimiento escolar y a las relaciones interpersonales de sus hijos. ** Un niño con problemas de aprendizaje suele tener un nivel normal de inteligencia, de agudeza visual y auditiva.**
+Los problemas de aprendizaje afectan a 1 de cada 10 niños en edad escolar. Estos problemas pueden ser detectados en los niños a partir de los 5 años de edad y constituyen una gran preocupación para muchos padres, ya que afectan al rendimiento escolar y a las relaciones interpersonales de sus hijos. **Un niño con problemas de aprendizaje suele tener un nivel normal de inteligencia, de agudeza visual y auditiva.**
 
-Es un niño que se esfuerza en seguir las instrucciones, en concentrarse y portarse bien en su casa y en la escuela. **Su dificultad está en captar, procesar y dominar las tareas e informaciones,** y luego en desarrollarlas posteriormente. El niño con ese problema simplemente no puede hacer lo mismo que los demás, aunque su nivel de inteligencia sea el mismo.
+Es un niño que se esfuerza en seguir las instrucciones, en concen trarse y portarse bien en su casa y en la escuela. **Su dificultad está en captar, procesar y dominar las tareas e informaciones,** y luego en desarrollarlas posteriormente. El niño con ese problema simplemente no puede hacer lo mismo que los demás, aunque su nivel de inteligencia sea el mismo.
 
 
 **8 pistas para detectar problemas de aprendizaje en los niños**
