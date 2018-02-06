@@ -25,28 +25,28 @@ A los 6 años, serán capaces de lavarse todo el cuerpo pero el enjabonado y acl
 
 Los pasos que deberán hacer los peques para bañarse solos serán los siguientes:
 
-    - Lavarse la cara: frente, ojos, cejas, orejas, mejillas, nariz, boca y barbilla
-    - Limpiarse las piernas y pies
-    - Asearse los brazos y las manos
-    - Frotarse el tronco
-    - Enjabonarse y aclararse el pelo
+   - Lavarse la cara: frente, ojos, cejas, orejas, mejillas, nariz, boca y barbilla
+   - Limpiarse las piernas y pies
+   - Asearse los brazos y las manos
+   - Frotarse el tronco
+   - Enjabonarse y aclararse el pelo
 
 La rutina que enseñaremos a los niños para el baño estará formada por:
 
-    - Preparar la ropa que se va a poner al salir de la bañera
-    - Tener a mano la toalla para secarse
-    - Desnudarse y dejar la ropa en un lugar determinado
-    - Meterse en la bañera y preparar el baño
-    - Coger la esponja y poner gel en ella
-    - Bañarse y aclararse
-    - Aclarar la esponja y colocarla en su sitio
-    - Recoger los juguetes si los hay
-    - Destapar el tapón de la bañaera
-    - Salir de la bañera
-    - Secarse con la toalla y dejarla en su sitio
-    - Vestirse
-    - Recoger la alfombrilla de los pies
-    - Recoger la ropa sucia y llevarla al cesto correspondiente
+   - Preparar la ropa que se va a poner al salir de la bañera
+   - Tener a mano la toalla para secarse
+   - Desnudarse y dejar la ropa en un lugar determinado
+   - Meterse en la bañera y preparar el baño
+   - Coger la esponja y poner gel en ella
+   - Bañarse y aclararse
+   - Aclarar la esponja y colocarla en su sitio
+   - Recoger los juguetes si los hay
+   - Destapar el tapón de la bañaera
+   - Salir de la bañera
+   - Secarse con la toalla y dejarla en su sitio
+   - Vestirse
+   - Recoger la alfombrilla de los pies
+   - Recoger la ropa sucia y llevarla al cesto correspondiente
 
 Si nuestros hijos adquieren autonomía e independencia no sólo será beneficioso para ellos sino que los padres podremos ganar tiempo y emplearlo en otras tareas que habíamos dejado de lado.
 
