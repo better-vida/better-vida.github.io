@@ -34,13 +34,13 @@ Cuando un niño tiene problemas para procesar la información que recibe, **le d
 
 **- Dificultad para distinguir entre la derecha y la izquierda**, para identificar las palabras, etc. Puede presentar tendencia a escribir las letras, las palabras o los números al revés.
 
-- **Falta de coordinación** al caminar, hacer deporte o llevar a cabo actividades sencillas como sujetar un lápiz o atarse el cordón del zapato.
+**- Falta de coordinación** al caminar, hacer deporte o llevar a cabo actividades sencillas como sujetar un lápiz o atarse el cordón del zapato.
 
-- **Facilidad para perder** o extraviar su material escolar, libros y otros artículos.
+**- Facilidad para perder** o extraviar su material escolar, libros y otros artículos.
 
-- **Dificultad para entender el concepto de tiempo**, confundiéndo el 'ayer', con el 'hoy' y/o 'mañana'.
+**- Dificultad para entender el concepto de tiempo**, confundiéndo el 'ayer', con el 'hoy' y/o 'mañana'.
 
-- **Tendencia a la irritación** o a manifestar excitación con facilidad.
+**- Tendencia a la irritación** o a manifestar excitación con facilidad.
 
 **Características de los problemas de aprendizaje**
 
