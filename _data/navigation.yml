@@ -25,6 +25,10 @@
   excerpt: "Hijos"
   #image: 400x250.jpg
 
+- title: Dinero
+  url: /dinero/
+  excerpt: "Dinero"
+
 - title: Suscribe
   url: https://tinyletter.com/lifenbiz
   excerpt: "Suscribe to our newsletter"
