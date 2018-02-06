@@ -3,8 +3,6 @@ layout: media
 title: "Problemas de aprendizaje en niños"
 categories: hijos
 excerpt: "como identificar los problemas de apredizajes en niños"
-author:
-  name:
 date: 2018-01-06
 ads: true
 share: true
@@ -53,4 +51,5 @@ Los niños que tienen problemas del aprendizaje con frecuencia presentan, según
 **Auditivo y verbal** El niño presenta apatía, resfriado, alergia y/o asma con frecuencia; pronuncia mal las palabras; respira por la boca; se queja de problemas del oído; se siente mareado; se queda en blanco cuando se le habla; habla alto; depende de otros visualmente y observa al maestro de cerca; no puede seguir más de una instrucción a la vez; pone la tele y la radio con volumen muy alto.
 
 **Matemáticas** El alumno invierte los números; tiene dificultad para saber la hora; pobre comprensión y memoria de los números; no responde a datos matemáticos.
+
 Published by [guiainfantil.com](https://www.guiainfantil.com/educacion/escuela/noaprende.htm)
