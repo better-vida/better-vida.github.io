@@ -1,6 +1,6 @@
 ---
 layout: media
-title: "Problemas de apredizaje en niños"
+title: "Problemas de aprendizaje en niños"
 categories: hijos
 excerpt: "como identificar los problemas de apredizajes en niños"
 author:
