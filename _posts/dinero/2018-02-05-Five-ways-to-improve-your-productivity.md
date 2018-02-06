@@ -1,16 +1,16 @@
 ---
 layout: media
-title: "5 ways to improve your productivity"
-categories: dinero
-excerpt: "Manage your energy to get the most out of your day"
-author: 
-  name: "Wendy Cuthbert"
-date: 2014-09-29
+title: "Problemas de apredizaje en niños"
+categories: hijos
+excerpt: "como identificar los problemas de apredizajes en niños"
+author:
+  name: ""
+date: 2018-01-06
 ads: true
 share: true
 toc: true
 comments: true
-tags: business, productivity
+tags: niños,apredizaje, inteligencia, aprendizaje, problemas, educación, estudio,escritura, lectura, matemáticas, hiperactivo, conducta, autoestima, atención
 
 ---
 
@@ -40,7 +40,7 @@ Up to 60% of the human adult body is water, and downing a few glasses of water t
 4. Schedule your distractions
 
 Pretending that YouTube doesn't exist or that your news feed is down might work over the short term. But the best way to combat the lure of the Internet is by scheduling time to spend on your diversions, according to Torok: "Give yourself an allowance."
-Try a time-management app to track how you are spending your time, especially online. These tools make it impossible for you to lie to yourself about your productivity. 
+Try a time-management app to track how you are spending your time, especially online. These tools make it impossible for you to lie to yourself about your productivity.
 
 5. Take a coffee nap
 
