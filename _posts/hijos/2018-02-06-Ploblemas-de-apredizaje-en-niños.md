@@ -31,7 +31,7 @@ Cuando un niño tiene problemas para procesar la información que recibe, **le d
 
 - **Dificultad para dominar las destrezas básicas** de lectura, deletreo, escritura y/o matemática, por lo que fracasa en el trabajo escolar.
 
--** Dificultad para distinguir entre la derecha y la izquierda**, para identificar las palabras, etc. Puede presentar tendencia a escribir las letras, las palabras o los números al revés.
+- **Dificultad para distinguir entre la derecha y la izquierda**, para identificar las palabras, etc. Puede presentar tendencia a escribir las letras, las palabras o los números al revés.
 
 - **Falta de coordinación** al caminar, hacer deporte o llevar a cabo actividades sencillas como sujetar un lápiz o atarse el cordón del zapato.
 
