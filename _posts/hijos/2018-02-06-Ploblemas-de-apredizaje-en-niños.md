@@ -25,13 +25,14 @@ El niño con problemas de aprendizaje específicos presenta patrones poco usuale
 
 Cuando un niño tiene problemas para procesar la información que recibe, **le delata su comportamiento.** Los padres deben estar atentos y observar las señales más frecuentes que indican la presencia de un problema de aprendizaje:
 
--** Dificultad para entender** y seguir tareas e instrucciones.
 
-- **Problemas para recordar** lo que alguien le acaba de decir.
+**- Dificultad para entender** y seguir tareas e instrucciones.
 
-- **Dificultad para dominar las destrezas básicas** de lectura, deletreo, escritura y/o matemática, por lo que fracasa en el trabajo escolar.
+**- Problemas para recordar** lo que alguien le acaba de decir.
 
-- **Dificultad para distinguir entre la derecha y la izquierda**, para identificar las palabras, etc. Puede presentar tendencia a escribir las letras, las palabras o los números al revés.
+**- Dificultad para dominar las destrezas básicas** de lectura, deletreo, escritura y/o matemática, por lo que fracasa en el trabajo escolar.
+
+**- Dificultad para distinguir entre la derecha y la izquierda**, para identificar las palabras, etc. Puede presentar tendencia a escribir las letras, las palabras o los números al revés.
 
 - **Falta de coordinación** al caminar, hacer deporte o llevar a cabo actividades sencillas como sujetar un lápiz o atarse el cordón del zapato.
 
