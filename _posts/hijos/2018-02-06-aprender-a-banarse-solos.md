@@ -8,7 +8,7 @@ ads: true
 share: true
 toc: true
 comments: true
-tags: niños,aprendizaje, bano, ducha, nino, baño, independecia
+tags: niños,aprendizaje, bano, ducha, nino, baño, independecia, cuidado, salud, higiene.educación, educacion
 
 ---
 
