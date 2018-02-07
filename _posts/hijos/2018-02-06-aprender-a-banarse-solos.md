@@ -33,20 +33,20 @@ Los pasos que deberán hacer los peques para bañarse solos serán los siguiente
 
 La rutina que enseñaremos a los niños para el baño estará formada por:
 
-   - Preparar la ropa que se va a poner al salir de la bañera
-   - Tener a mano la toalla para secarse
-   - Desnudarse y dejar la ropa en un lugar determinado
-   - Meterse en la bañera y preparar el baño
-   - Coger la esponja y poner gel en ella
-   - Bañarse y aclararse
-   - Aclarar la esponja y colocarla en su sitio
-   - Recoger los juguetes si los hay
-   - Destapar el tapón de la bañaera
-   - Salir de la bañera
-   - Secarse con la toalla y dejarla en su sitio
-   - Vestirse
-   - Recoger la alfombrilla de los pies
-   - Recoger la ropa sucia y llevarla al cesto correspondiente
+1. Preparar la ropa que se va a poner al salir de la bañera
+1. Tener a mano la toalla para secarse
+1. Desnudarse y dejar la ropa en un lugar determinado
+1. Meterse en la bañera y preparar el baño
+1. Coger la esponja y poner gel en ella
+1. Bañarse y aclararse
+1. Aclarar la esponja y colocarla en su sitio
+1. Recoger los juguetes si los hay
+1. Destapar el tapón de la bañera
+1. Salir de la bañera
+1. Secarse con la toalla y dejarla en su sitio
+1. Vestirse
+1. Recoger la alfombrilla de los pies
+1. Recoger la ropa sucia y llevarla al cesto correspondiente
 
 Si nuestros hijos adquieren autonomía e independencia no sólo será beneficioso para ellos sino que los padres podremos ganar tiempo y emplearlo en otras tareas que habíamos dejado de lado.
 
