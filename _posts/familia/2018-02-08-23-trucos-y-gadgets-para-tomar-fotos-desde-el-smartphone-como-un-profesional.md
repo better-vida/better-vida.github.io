@@ -1,8 +1,8 @@
 ---
 layout: media
-title: ""
+title: "23 trucos y gadgets que te ayudarán a tomar fotos desde el smartphone como un profesional"
 categories: familia
-excerpt: ""
+excerpt: "23 trucos y gadgets que te ayudarán a tomar fotos desde el smartphone como un profesional"
 author:
   name: "Altor Carbajo"
 date: 2018-02-08
@@ -12,14 +12,13 @@ toc: true
 comments: true
 tags: foto, fotografia, camara, celular, telefono, smartphone, imagenes
 
----
-![](file:///home/gaby/git/familiasana/images/familia/2018-02-08/trucos-de-fotografia-01.jpg)
+![](http://familiasana.info/images/familia/2018-02-08/trucos-de-fotografia-01.jpg)
 
 El nivel de las cámaras de los teléfonos móviles ha llegado a tal punto hoy en día que amenazan seriamente el terreno de las cámaras compactas. Para un usuario medio, que solo necesita el “point and shoot” (apuntar y disparar), la cámara de su smartphone resulta más que suficiente para conseguir las fotos que necesita en cada momento.
 
 Si a esto le añadimos la conectividad que ofrecen estos dispositivos, que nos permiten publicar, compartir o incluso enviar a un centro de revelado las fotos que estamos tomando, tenemos un producto “redondo” que suplirá las necesidades de más de uno.
 
-![](file:///home/gaby/git/familiasana/images/familia/2018-02-08/trucos-de-fotografia-02.jpg)
+![](http://familiasana.info/images/familia/2018-02-08/trucos-de-fotografia-02.jpg)
 
 
 Hoy queremos traer una serie de trucos y gadgets que mejorarán tu manera de sacar fotografías y conseguirás unos resultados dignos de enmarcar. Vamos a ver todo, desde trucos, aplicaciones, hasta gadgets que te ayudarán en este proceso. Vamos a ello:
@@ -29,7 +28,7 @@ Hoy queremos traer una serie de trucos y gadgets que mejorarán tu manera de sac
 * Bueno, ya tenemos la aplicación para sacar fotos, también podemos editarlas ¿no? Al igual que existen aplicaciones para la toma de fotografías, las hay para el retoque de las mismas. Podremos jugar con el brillo, el contraste o la saturación si no son los parámetros que deseamos. PicsArt es una buena opción que tenemos tanto para iOS como para Android.
 
 
-![](file:///home/gaby/git/familiasana/images/familia/2018-02-08/trucos-de-fotografia-03.jpg)
+![](http://familiasana.info/images/familia/2018-02-08/trucos-de-fotografia-03.jpg)
 
 
 Aunque las aplicaciones de edición y toma de fotografías anotadas son de las mejores que existen ahora mismo en el mercado, una búsqueda en tu tienda de aplicaciones puede llevarte a una que te guste más. Vamos ya a los trucos puros y duros.
@@ -50,13 +49,13 @@ Aunque las aplicaciones de edición y toma de fotografías anotadas son de las m
 
 * Últimamente se han puesto de moda los filtros. En muchos casos están bien, son divertidos y cualquier aplicación de fotografía te ofrece un puñado de ellos para utilizar. Pero a veces es mejor tomarse unos minutos editando la fotografía para mejorarla que abusar de estos filtros.
 
-![](file:///home/gaby/git/familiasana/images/familia/2018-02-08/trucos-de-fotografia-04.jpg)
+![](http://familiasana.info/images/familia/2018-02-08/trucos-de-fotografia-04.jpg)
 
 
 * Intenta evitar el uso del flash. El flash de tu teléfono móvil, a no ser que tengas un móvil de gama alta que empiezan a incluir correcciones de color, etcétera, es mejor no utilizarlo, ya que puede provocar más problemas de los que soluciona. Así que volvemos al punto cuatro: utilizar el blanco y negro puede añadir mucha expresividad a las fotos.
- 
+
 * Mantén limpio el sensor de tu cámara… Del bolsillo del pantalón a la mano, de ahí al bolso o a la mochila. Una simple mota de polvo puede estropear una foto perfecta, así que asegúrate de limpiar bien el protector del sensor de la cámara con un trapo limpio antes de tomarla.
- 
+
 * Evita sacar fotos enfrentándote al sol. Y es que pueden producirse los famosos “lensflare” o reflejos producidos por la luz del sol incidiendo contra el cristal del sensor de la cámara. Eso sí, bien utilizado puede dar lugar a fotos muy expresivas.
 
 * Aplica la regla de los tres tercios  a la hora de tomar una foto. Se trata en definitiva de ordenar correctamente los elementos que se encuentran dentro de la foto. Para ello, el software de tu cámara te proporciona una cuadricula que te ayudará a ello, solo tienes que activarla.
@@ -69,27 +68,27 @@ Aunque las aplicaciones de edición y toma de fotografías anotadas son de las m
 
 * Juega con la exposición. Tanto en Android como en iOS, al realizar una pulsación prolongada sobre la pantalla, aparece un icono de un “sol”, Subiéndola o bajándola, conseguiremos corregir la imagen para que la luz sea perfecta.
 
- 
-![](file:///home/gaby/git/familiasana/images/familia/2018-02-08/trucos-de-fotografia-05.jpg)
+
+![](http://familiasana.info/images/familia/2018-02-08/trucos-de-fotografia-05.jpg)
 
 
 Vamos a los accesorios que te ayudarán a tomar mejores fotos:
 
 *     Hemos hablado ya de que el flash que suelen incluir los móviles entorpecen más que ayudan a la hora de tomar fotos. Hay fabricantes que se han dado cuenta de esto y por eso, han desarrollado flashes externos que te ayudarán a tomar mejores fotos. Manfrotto tiene una funda para smartphone con flash incorporado y hay otros que se conectan a la entrada de auriculares de tu smartphone.
- 
+
 * También están empezando a aparecer lentes para mejorar las posibilidades de toma de fotografías. Olioclip por ejemplo tiene una serie de lentes que venden en kits como ojos de pez, grandes angulares o macro que darán un toque diferente a nuestras fotografías.
 
 
-![](file:///home/gaby/git/familiasana/images/familia/2018-02-08/trucos-de-fotografia-06.jpg)
+![](http://familiasana.info/images/familia/2018-02-08/trucos-de-fotografia-06.jpg)
 
 
 
 *     Existen carcasas estancas que nos permitirán la toma de fotografías dentro del agua. Nuestro smartphone estará protegido y nosotros conseguiremos unas fotos acuáticas estupendas.
- 
+
 *     Otro gadget que puede sacar mucho juego a la hora de tomar fotos con smartphones es el famoso “palo” de selfies. No solo para la toma de “auto-fotos” o fotos grupales donde quieras aparecer también. Este bastón puede resultar muy útil para la toma de imágenes cenitales o desde un punto de vista diferente.
- 
+
 *     Una idea interesante puede ser la compra de un pequeño trípode para llevar siempre encima. Esto nos puede ayudar a la hora de sacar fotos donde queramos aparecer nosotros, ya que podremos utilizar el disparo con temporizador. Joby es una marca que tiene trípodes especialmente ideados para smartphones y que son pequeños y manejables.
- 
+
 Y hasta aquí nuestra serie de consejos sobre fotografía en smartphones. Ahora solo tienes que salir a la calle y buscar la inspiración fotográfica para conseguir esas estupendas fotos.
 
 Fotografías | [Giuseppe Milo](https://www.flickr.com/photos/giuseppemilo/11778231203/) y [Jamie McCaffrey](https://www.flickr.com/photos/15609463@N03/14872100579/) en Flickr
