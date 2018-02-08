@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: article
 title: "Aprender a bañarse solos"
 categories: hijos
 excerpt: "aprender a bañarse solos los niños"
@@ -11,6 +11,7 @@ comments: true
 tags: niños,aprendizaje, bano, ducha, nino, baño, independecia, cuidado, salud, higiene.educación, educacion
 
 ---
+![](http://familiasana.info/images/hijos/aprender-a-bañarse-solos-los-niños.jpg)
 
 El momento del baño es una actividad cotidiana que poco a poco dejaremos realizar a los peques.
 
@@ -19,7 +20,10 @@ Aprender a bañarse solos dependerá de cada niño y de su evolución, donde los
 
 **Cómo bañarse correctamente los niños**
 
-El baño será perfecto para enseñar las partes del cuerpo a nuestros hijos y sobre los 4 años podremos fomentar el empleo de la esponja en la ducha. Para que los niños aprendan a bañarse solos, quitaremos los juguetes durante el baño evitando distracciones innecesarias y captando toda su atención. Además, aprenderá a salir y entrar de la bañera así como secarse.
+
+El baño será perfecto para enseñar las partes del cuerpo a|   nuestros hijos y sobre los 4 años podremos fomentar el empleo de la esponja en la ducha. Para que los niños aprendan a bañarse solos, quitaremos los juguetes durante el baño evitando distracciones innecesarias y captando toda su atención. Además, aprenderá a salir y entrar de la bañera así como secarse.
+
+![](http://familiasana.info/images/hijos/enseñar-a-bañarse-solos-los-niños-300x200.jpg)
 
 A los 6 años, serán capaces de lavarse todo el cuerpo pero el enjabonado y aclarado así como el desenredo del cabello les costará un poco más. Cuando los pequeños cumplan 9 años podrán realizar esta actividad sin necesidad de ayuda externa. Los padres supervisarán el aclarado del pelo y el lavado de las orejas, siendo zonas más difíciles de limpiar.
 
