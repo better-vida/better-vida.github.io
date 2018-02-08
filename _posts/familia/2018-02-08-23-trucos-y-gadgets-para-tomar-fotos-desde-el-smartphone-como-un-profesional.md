@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: article
 title: "23 trucos y gadgets que te ayudarán a tomar fotos desde el smartphone como un profesional"
 categories: familia
 excerpt: "23 trucos y gadgets que te ayudarán a tomar fotos desde el smartphone como un profesional"
