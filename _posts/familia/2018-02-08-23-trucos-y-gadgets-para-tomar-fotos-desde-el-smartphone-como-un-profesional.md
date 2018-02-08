@@ -12,6 +12,8 @@ toc: true
 comments: true
 tags: foto, fotografia, camara, celular, telefono, smartphone, imagenes
 
+---
+
 ![](http://familiasana.info/images/familia/2018-02-08/trucos-de-fotografia-01.jpg)
 
 El nivel de las cámaras de los teléfonos móviles ha llegado a tal punto hoy en día que amenazan seriamente el terreno de las cámaras compactas. Para un usuario medio, que solo necesita el “point and shoot” (apuntar y disparar), la cámara de su smartphone resulta más que suficiente para conseguir las fotos que necesita en cada momento.
