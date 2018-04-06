@@ -11,13 +11,13 @@ comments: true
 tags: niños,aprendizaje, nino, educacion, primaria,educación, ojos, vista, salud visual
 
 ---
-¿Cuándo llevar al niño al oftalmólogo?
+**¿Cuándo llevar al niño al oftalmólogo?**
 
 Cuándo los niños deben acudir a la consulta de un oculista.
 
-¿Cuándo acudir al oftalmólogo con el niño?
+**¿Cuándo acudir al oftalmólogo con el niño?**
 
-![](http://familiasana/images/hijos/cuandooftalmologo-p.jpg)
+![](http://familiasana.info/images/hijos/cuandooftalmologo-p.jpg)
 
 Por este motivo, la edad ideal para llevar al niño al oftalmólogo es a partir de los 5 o 6 años. Desde el momento en que el ojo empieza a adquirir su madurez y el niño puede llegar a identificar movimientos, leer y facilitar la interpretación de ciertos objetos proyectados, el diagnóstico es más fácil. Además, esta edad ideal para llevar al niño al oftalmólogo coincide con el inicio de la escuela en Primaria y con una mayor exigencia a nivel académico. Tras esta primera valoración, es recomendable que una vez al año un especialista realice una valoración de la visión del niño.
 Corrige el defecto visual de tu hijo cuanto antes
