@@ -1,7 +1,6 @@
 ---
 layout: article
-title: 
-¿Cuándo llevar al niño al oftalmólogo?
+title: ¿Cuándo llevar al niño al oftalmólogo?
 categories: hijos
 excerpt: ¿Cuándo acudir al oftalmólogo con el niño?
 date: 2018-04-06
@@ -9,7 +8,7 @@ ads: true
 share: true
 toc: true
 comments: true
-tags: niños,aprendizaje, nino, educacion, primaria,educación, ojos, vista
+tags: niños,aprendizaje, nino, educacion, primaria,educación, ojos, vista, salud visual
 
 ---
 ¿Cuándo llevar al niño al oftalmólogo?
