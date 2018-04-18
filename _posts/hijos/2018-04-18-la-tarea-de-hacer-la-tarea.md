@@ -1,12 +1,17 @@
 ---
 link: 
+layout: article
 title: 5 trucos para que tus hijos hagan la tarea
+categories: hijos
 description: Propongo algunas ideas para que los padres de familia no tengan problemas para que sus hijos puedan realizar las tareas dejadas en clase, no solamente con estrategias viejas, sino con fundamentos que hagan crear conciencia en el alumno.
-keywords: aprovechaviento-escolar,tareas-escolares
+date: 2018-04-18
+ads: true
+share: true
+toc: true
+comments: true
+tags: niños,aprendizaje, nino, educacion, primaria,educación, aprovechaviento-escolar,tareas-escolares
 author: Erika Gaytán
-date: null
 publisher: Familias.com 
-stats: paragraph=13 sentences=26, words=677
 ---
 # 5 trucos para que tus hijos hagan la tarea
 

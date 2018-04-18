@@ -1,12 +1,17 @@
 ---
-link: 
+layout: article
 title: Hijos: ¿cuál es la diferencia entre mimar y dar afecto?
+categories: hijos
 description: El miedo a mimar demasiado a un hijo deja a muchos papás sin saber qué hacer y susceptibles de cometer ciertos errores. Me acuerdo de una situación que pasó en nuestra casa, cuando nuestro primer h…
-keywords: null
+date: 2018-04-18
+ads: true
+share: true
+toc: true
+comments: true
+tags: educacion, padres,hijos, familia, amor
 author: Cançao Nova
 date: 2017-06-01T10:10:04.000Z
 publisher: Aleteia.org
-stats: paragraph=19 sentences=47, words=1026
 ---
 ## Los papás no quieren mimar a sus hijos, pero es verdad que muchos, al querer acertar, terminan equivocándose
 

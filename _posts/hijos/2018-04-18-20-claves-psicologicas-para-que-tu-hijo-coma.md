@@ -1,12 +1,15 @@
 ---
-link: null
+layout: article
 title: 20 Claves psicológicas para que tu hijo coma
+categories: hijos
 description: Te proponemos algunas pautas para darle la vuelta a la tortilla.
-keywords: pediatra, niños, embarazo, parto, bebé, lactancia, información, enfermedad, educación, alimentación
+date: 2018-04-06
+ads: true
+share: true
+toc: true
+comments: true
+tags: niños,aprendizaje, nino, educacion, primaria,educación,pediatra, niños, embarazo, parto, bebé, lactancia, información, enfermedad, educación, alimentación
 author: Revista Mi Pediatra
-date: null
-publisher: Niño | Educación | Mi Pediatra | Revista de información sobre salud materno infantil
-stats: paragraph=12 sentences=56, words=1202
 ---
 ![](http://familiasana.info/images/hijos/20-claves-psicologicas-para-que-tu-hijo-coma.jpg)
 
