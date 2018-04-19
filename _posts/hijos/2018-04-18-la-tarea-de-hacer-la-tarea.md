@@ -13,7 +13,6 @@ tags: niños,aprendizaje, nino, educacion, primaria,educación, aprovechaviento-
 author: Erika Gaytán
 publisher: Familias.com 
 ---
-# 5 trucos para que tus hijos hagan la tarea
 
 Propongo algunas ideas para que los padres de familia no tengan problemas para que sus hijos puedan realizar las tareas dejadas en clase, no solamente con estrategias viejas, sino con fundamentos que hagan crear conciencia en el alumno.
 

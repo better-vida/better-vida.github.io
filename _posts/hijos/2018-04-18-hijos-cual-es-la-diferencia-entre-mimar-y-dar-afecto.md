@@ -10,7 +10,6 @@ toc: true
 comments: true
 tags: educacion, padres,hijos, familia, amor
 author: Cançao Nova
-date: 2017-06-01T10:10:04.000Z
 publisher: Aleteia.org
 ---
 ## Los papás no quieren mimar a sus hijos, pero es verdad que muchos, al querer acertar, terminan equivocándose
