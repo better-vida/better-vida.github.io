@@ -4,7 +4,7 @@ layout: article
 title: 20 Claves psicológicas para que tu hijo coma
 categories: hijos
 description: Te proponemos algunas pautas para darle la vuelta a la tortilla.
-date: 2018-04-06
+date: 2018-04-18
 ads: true
 share: true
 toc: true
