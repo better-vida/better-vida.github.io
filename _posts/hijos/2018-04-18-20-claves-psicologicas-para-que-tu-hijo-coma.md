@@ -1,4 +1,5 @@
 ---
+link:
 layout: article
 title: 20 Claves psicológicas para que tu hijo coma
 categories: hijos
