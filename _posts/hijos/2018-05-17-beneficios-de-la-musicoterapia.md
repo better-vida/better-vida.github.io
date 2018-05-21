@@ -3,7 +3,7 @@ link:
 title: Musicoterapia: qué es y qué beneficios reporta a los niños
 description: ¿Qué áreas se potencian mediante el ejercicio de la musicoterapia con un terapeuta oficial? ¿Qué beneficios obtienen los niños que lo ponen en práctica?
 categories: hijos
-date: 2018-05-17
+date: 2018-05-18
 ads: true
 share: true
 toc: true
