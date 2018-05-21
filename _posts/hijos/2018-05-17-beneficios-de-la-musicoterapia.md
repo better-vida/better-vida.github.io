@@ -13,6 +13,7 @@ author: null
 publisher: SerPadres.es
 stats: paragraph=14 sentences=24, words=697
 ---
+
 ![](http://familiasana.info/images/hijos/nina-guitarra-cascos-c_0.jpg)
 
 Cada vez se habla más sobre los beneficios de la  musicoterapiay no es para menos. Según la Federación Mundial de Musicoterapia: " **La musicoterapia es la utilización de la música y/o de sus elementos** musicales (sonido, ritmo, melodía y armonía) por un musicoterapeuta cualificado, con un paciente o grupo, en el proceso diseñado **para facilitar y promover comunicación, relación, aprendizaje, movilización, expresión, organización y otros objetivos terapéuticos relevantes, con el fin de lograr cambios y satisfacer necesidades físicas, emocionales, mentales, sociales y cognitivas**". ¡Casi nada!
