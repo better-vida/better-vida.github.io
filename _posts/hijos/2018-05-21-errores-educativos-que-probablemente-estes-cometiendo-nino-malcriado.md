@@ -1,6 +1,6 @@
 ---
 link: 
-title: Niño malcriado: errores educativos comunes que se cometen - No regañes en público
+title: Niño malcriado; errores educativos comunes que se cometen - No regañes en público
 description: Siempre hay que llamar la atención en el momento si estamos ante una situación de peligro, como cuando van corriendo por la calle sin mirar o empujan a otro n...
 categories: hijos
 date: 2018-05-21
