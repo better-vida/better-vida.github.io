@@ -1,6 +1,6 @@
 ---
 link: 
-title: 10 señales que indican que el niño está malcriado
+title: "10 señales que indican que el niño está malcriado"
 description: Es fácil que los padres caigamos en errores durante el proceso de educar a un hijo. Para saber si lo estamos haciendo bien, basta reconocer a los niños malcriados, si tu hijo cumple muchas o casi todas de los siguientes puntos, deberías replanteártelo.
 tags: niños malcriados, niños maleducados, educar a los hijos, desobedientes, rabietas, respondones
 author: Alba Caraballo
