@@ -1,12 +1,13 @@
 ---
 link: 
-title: 7 cosas que puedes empezar a hacer para hacer rendir tu dinero
-description: ¡Es el mejor momento!
+title: "7 cosas que puedes empezar a hacer para hacer rendir tu dinero"
+description: "¡Es el mejor momento!"
 categories: dinero
 ads: true
 share: true
 toc: true
-comments: truetags: sueldo, familia,rendir, dinero
+comments: true
+tags: sueldo, familia,rendir, dinero
 author: null
 date: 2018-05-22
 publisher: 7 cosas que puedes empezar a hacer para hacer rendir tu dinero
