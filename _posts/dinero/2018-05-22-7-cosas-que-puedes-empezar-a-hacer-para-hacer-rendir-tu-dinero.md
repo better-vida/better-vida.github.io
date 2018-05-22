@@ -9,6 +9,8 @@ publisher: 7 cosas que puedes empezar a hacer para hacer rendir tu dinero
 stats: paragraph=1 sentences=20, words=357
 ---
 
+![](http://familiasana.info/images/dinero/7-decisiones-financieras-20s.jpg )
+
 Típico que recibes tu primer sueldo y sientes que te quema las manos. Pero antes de que te lo termines en la primera caminata por el centro comercial, checa los consejos que , comparte sobre las mejores decisiones financieras que puedes tomar en esta etapa de tu vida.
 
 1. Ahorrar el 50% de tus aumentos de sueldo. Todos caemos en el ''cuanto más ganas, más gastas'', por eso Sofía recomienda que tan pronto sepas la cantidad de tu aumento, programes enviar la mitad de él al ahorro y la otra mitad la designes al resto de tus gastos.
