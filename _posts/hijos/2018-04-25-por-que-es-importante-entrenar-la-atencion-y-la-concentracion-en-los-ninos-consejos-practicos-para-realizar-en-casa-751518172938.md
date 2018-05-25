@@ -1,5 +1,6 @@
 ---
 link:
+layout: article
 title: ¿Cómo entrenar la atención y la concentración en los niños?
 description: La atención y la concentración de los niños es limitada y por eso es importante que la entrenen. Con unos pocos consejos lograremos que aprendan a concentrarse.
 categories: hijos

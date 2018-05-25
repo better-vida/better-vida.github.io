@@ -1,5 +1,6 @@
 ---
 link: 
+layout: article
 title: "Niños e inseguridad ciudadana: el trauma a la vuelta de la esquina."
 description: "Hace poco nos convertimos en una familia más víctima de la inseguridad que impera en Venezuela. Atiendo a muchas familias que en algún momento han sido víctimas de la inseguridad, esta ve nos tocó …"
 categories: hijos

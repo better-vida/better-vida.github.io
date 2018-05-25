@@ -1,5 +1,6 @@
 ---
 link: 
+layout: article
 title: "7 métodos divertidos para aprender a sumar y restar - Aprender a sumar y a restar...¡dientes!"
 description: "Esta forma es muy sencilla:
 Basta con hacer distintos dibujos con un número variado de dientes en cada una de ellas. Pintamos los que queramos y son los que ..."

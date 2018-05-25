@@ -1,5 +1,6 @@
 ---
 link: 
+layout: article
 title: La masturbación en niños de edad preeescolar 
 description: Hoy os traigo un artículo sobre la masturbación infantil, de un colaborador de lujo, el Dr. Eduardo R. Hernández González pediatra y terapeuta conductual infantil.
 categories: hijos

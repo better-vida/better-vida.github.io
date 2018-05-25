@@ -1,5 +1,6 @@
 ---
 link: 
+layout: article
 title: A qué hora deben acostarse los niños para ir a la escuela según su edad
 description: Descubre a qué hora deben acostarse los niños para ir a la escuela según su edad, y así sabrás a qué hora debe acostarse tu hijo para rendir de forma correcta en el colegio. Cuál es la mejor hora para que los niños se vayan a la cama para estar descansados al día siguiente. El sueño es fundamental para el buen desarrollo de los niños.
 keywords: niños a la cama, acostar a los niños, escuela, colegio, sueño de los niños, sueño, problemas para dormir, hora para acostarse, tabla de sueño, cuánto debe dormir
