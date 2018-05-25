@@ -15,6 +15,7 @@ publisher: Contratransferencia
 stats: paragraph=16 sentences=38, words=839
 ---
 ![](http://familiasana.info/images/hijos/crisis-social-con-nic3b1os.jpg)
+
 El día de ayer en mi país, Venezuela, hubo una gran concentración con fines políticos que alteró la rutina diaria de los niños. No hubo clases y sus padres pasaron mucho tiempo conectados a las fuentes de información.
 
 Mientras que algunos padres piensan que deben contar a sus hijos "lo que está pasando" otros piensan que es mejor mantenerlos protegidos de toda la avalancha informativa.
