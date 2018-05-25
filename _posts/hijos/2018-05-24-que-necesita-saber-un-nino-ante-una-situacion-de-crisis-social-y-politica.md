@@ -1,6 +1,6 @@
 ---
 link: 
-layout: media
+layout: article
 title: "¿Qué necesita saber un niño ante una situación de crisis social y política?"
 description: "Ante el conflicto social y político, todos los niños necesitan contención emocional y que escuchemos sus dudas y preguntas. "
 categories: hijos
