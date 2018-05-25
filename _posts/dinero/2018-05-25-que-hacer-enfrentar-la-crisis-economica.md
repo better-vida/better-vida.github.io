@@ -1,7 +1,7 @@
 ---
 link: 
-title: Qué hacer para enfrentar la crisis económica en 2017, según Luis V. León
-description: Para el 2017 el escenario económico venezolano luce poco prometedor, es por ello que el economista y presidente de Datanálisis, Luis Vicente León, brindó algunos consejos a través de su cuenta Twitter.
+title: Qué hacer para enfrentar la crisis económica.
+.escription: Para el 2017 el escenario económico venezolano luce poco prometedor, es por ello que el economista y presidente de Datanálisis, Luis Vicente León, brindó algunos consejos a través de su cuenta Twitter.
 categories: dinero
 date: 2018-05-21
 ads: true
