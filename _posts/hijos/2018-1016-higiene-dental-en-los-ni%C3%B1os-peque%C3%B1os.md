@@ -8,7 +8,7 @@ keywords: dientes infantiles, caries infantiles, dientes de leche, cuidado dient
 author: Ana Hanssen
 date: 2018-10-16
 publisher: BabyCenter
-stats: paragraph=32 sentences=48, words=924
+stats: 
 ---
 ## ¿Cuál es la mejor forma de limpiar los dientes de mi hijo?
 ![](http://familiasana.info/images/hijos/92275687_wide.jpg)

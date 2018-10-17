@@ -8,7 +8,7 @@ keywords: migrañas~ jaquecas~ dolores fuertes de cabeza~ dolor punzante~ nausea
 author: null
 date: 2018-10-17
 publisher: HealthyChildren.org
-stats: paragraph=13 sentences=16, words=308
+stats: 
 ---
 ![](http://familiasana.info/images/hijos/girl_head_in_hands_red_hair.jpg)
 Es posible que su hijo tenga migrañas si sufre dolores de cabeza recurrentes con intervalos sin síntomas entre ellos y tiene algunos o todos los siguientes síntomas:
