@@ -4,6 +4,10 @@ link:
 title: Las migrañas en los niños
 description: ​Si su hijo presenta síntomas que sugieren una migraña, su pediatra le recomendará un plan de tratamiento.
 categories: hijos
+ads: true
+share: true
+toc: true
+comments: true
 keywords: migrañas~ jaquecas~ dolores fuertes de cabeza~ dolor punzante~ nauseas~ vómito~ dolor abdominal~ entumecimiento de las manos y los pies~ medicamentos para el dolor~ analgésicos~
 author: null
 date: 2018-10-17
