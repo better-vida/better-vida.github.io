@@ -16,7 +16,7 @@ stats:
 ---
 ## ¿Cuál es la mejor forma de limpiar los dientes de mi hijo?
 ![](http://familiasana.info/images/hijos/92275687_wide.jpg)
-Usa un cepillo dental pequeño y con cerdas suaves, y una pequeñísima cantidad de pasta dental co flúor. Está bien usar una pasta de flúor aunque verás que la mayoría de las pastas para bebés y niños pequeños están etiquetadas como "sin flúor".
+Usa un cepillo dental pequeño y con cerdas suaves, y una pequeñísima cantidad de pasta dental con flúor. Está bien usar una pasta de flúor aunque verás que la mayoría de las pastas para bebés y niños pequeños están etiquetadas como "sin flúor".
 
 En cuanto le, usa una cantidad de pasta dental del tamaño de un grano de un arroz. Después de que cumpla 3 años, puedes usar una cantidad del tamaño de un chícharo (arveja, guisante). Asegúrate de seguir las siguientes recomendaciones para evitar darle a tu niño mucho flúor.
 
