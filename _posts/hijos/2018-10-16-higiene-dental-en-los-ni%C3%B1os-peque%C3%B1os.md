@@ -1,8 +1,8 @@
 ---
 layout: article
 link: 
-title: "Higiene dental en los niños pequeños
-description: Infórmate sobre cómo cuidar de forma apropiada los dientes de tu hijo y cuándo comenzar sus revisiones dentales."
+title: "Higiene dental en los niños pequeños"
+description: "Infórmate sobre cómo cuidar de forma apropiada los dientes de tu hijo y cuándo comenzar sus revisiones dentales."
 categories: hijos
 ads: true
 share: true
