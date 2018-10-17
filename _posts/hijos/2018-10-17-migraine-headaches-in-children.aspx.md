@@ -8,7 +8,7 @@ ads: true
 share: true
 toc: true
 comments: true
-keywords: migrañas, jaquecas, dolores fuertes de cabeza, dolor punzante, nauseas, vómito, dolor abdominal, entumecimiento de las manos y los pies, medicamentos para el dolo,~ analgésicos
+keywords: migrañas, jaquecas, dolores fuertes de cabeza, dolor punzante, nauseas, vómito, dolor abdominal, entumecimiento de las manos y los pies, medicamentos para el dolo, analgésicos
 author: null
 date: 2018-10-17
 publisher: HealthyChildren.org
