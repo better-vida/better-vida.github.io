@@ -10,6 +10,8 @@ date: 2018-10-24
 publisher: null
 stats: 
 ---
+![](http://familiasana.info/images/familia/P-Padrastro-esHD-AR1.jpg)
+
 Convertirse en padrastro o madrastra por la unión de dos familias o al casarse con una persona que ya tenía hijos con otra que carecía de ellos puede ser una experiencia gratificante y satisfactoria. Si usted no ha tenido hijos, tendrá la oportunidad de compartir su vida con una persona más joven y ayudarla a moldear su carácter. Si ya tiene hijos, les ofrecerá la oportunidad de construir relaciones y de establecer ese vínculo tan especial que solo se crea entre hermanos.
 
 En algunos casos, los miembros de una nueva familia se llevan de maravilla. Pero otras veces surgen obstáculos en el camino.

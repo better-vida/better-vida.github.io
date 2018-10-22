@@ -10,7 +10,7 @@ date: 2018-10-24T22:42:00.000Z
 publisher: El Comercio
 stats: 
 ---
-
+![](http://familiasana.info/images/familia/amor_1-web.jpg)
 
 Luego de que un filme de 1955 protagonizado por **Marilyn Monroe** llamado 'La comezón del séptimo año' saltó a la fama, se generó una **teoría popular** en la que se asegura que las parejas entran en una 'crisis matrimonial' a los siete años de estar casados.
 
