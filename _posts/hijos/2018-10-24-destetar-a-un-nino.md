@@ -1,5 +1,6 @@
 ---
-link: null
+layout: article
+link: 
 title: "Destetar a un niño"
 description: "Destetar es hacer que un niño pase de tomar el pecho a nutrirse de otras formas. El destete es un proceso que requiere paciencia y comprensión, tanto de su parte como de parte del bebé."
 keywords: amamantar, lactancia, leche, materna, pecho, teta, alimentos, sólidos, destetar, destete, nutrientes, fórmula, hierro, enriquecida, vaca,
@@ -10,7 +11,7 @@ toc: true
 comments: true
 date: 2018-10-22
 publisher: null
-stats: paragraph=27 sentences=60, words=1213
+stats: 
 ---
 ![](http://familiasana.info/images/hijos/P-bebeDestetar-esHD-AR1.jpg)
 

@@ -1,6 +1,6 @@
 ---
 layout: article
-link: null
+link: 
 title: "Poner límites a los más pequeños"
 description: "Nuestros pequeños nos ponen los nervios a prueba porque están explorando los límites de todo cuanto les rodea. Cada día, poco a poco, van aprendiendo y luego dominando nuevas habilidades y están emocionados por ponerlas en práctica."
 keywords: límites, pequeños, comportamientos, aceptables, rabietas
