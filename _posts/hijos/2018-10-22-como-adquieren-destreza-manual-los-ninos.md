@@ -1,7 +1,7 @@
 ---
 layout: article
 link:
-title: Cómo adquieren destreza manual los niños
+title: "Cómo adquieren destreza manual los niños"
 description: Habilidades y destreza manual en los niños. Motricidad fina. Durante los primeros años, las manos de los niños manos, serán una de las partes más importantes, para poder explorar y sobre todo interactuar con el mundo que le rodea. Juegos y actividades manuales permiten estimular la motricidad fina de los niños.
 categories: hijos
 ads: true

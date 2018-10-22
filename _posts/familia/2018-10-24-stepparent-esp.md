@@ -6,6 +6,10 @@ description: Si bien no hay una fórmula infalible para crear la familia "perfec
 keywords: padrastro, madrastra, familia, divorcio, hijos, hijastros, relaciones, rol, pareja, vínculo, hijastra, separación, custodia, compartida, convivir, cónyuge, niños, ex, marido, mujer
 author: null
 categories: familia
+ads: true
+share: true
+toc: true
+comments: true
 date: 2018-10-24
 publisher: null
 stats: 
