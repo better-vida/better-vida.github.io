@@ -8,6 +8,8 @@ ads: true
 share: true
 toc: true
 comments: true
+keywords: ninos, educacion, crianza, destreza, escritura, motora fina, motora gruesa
+author: null
 date: 2018-10-22
 publisher: Guiainfantil.com
 stats: 
