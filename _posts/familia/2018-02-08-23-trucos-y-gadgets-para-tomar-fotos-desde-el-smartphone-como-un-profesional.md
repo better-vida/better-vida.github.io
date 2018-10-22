@@ -4,7 +4,7 @@ title: "23 trucos y gadgets que te ayudarán a tomar fotos desde el smartphone c
 categories: familia
 excerpt: "23 trucos y gadgets que te ayudarán a tomar fotos desde el smartphone como un profesional"
 author:
-  name: "Altor Carbajo"
+name: "Altor Carbajo"
 date: 2018-02-08
 ads: true
 share: true

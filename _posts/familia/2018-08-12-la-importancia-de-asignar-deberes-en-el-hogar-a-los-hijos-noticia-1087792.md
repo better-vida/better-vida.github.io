@@ -1,4 +1,5 @@
 ---
+layout: article
 link: 
 title: "La importancia de asignar deberes en el hogar a los hijos"
 description: "Incentivar la participación de los hijos en las tareas domésticas les da autonomía, confianza en sí mismos y mayor capacidad para tomar decisiones."
