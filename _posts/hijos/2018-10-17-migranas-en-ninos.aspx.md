@@ -1,8 +1,8 @@
 ---
 layout: article
 link: 
-title: Las migrañas en los niños.
-description: ​Si su hijo presenta síntomas que sugieren una migraña, su pediatra le recomendará un plan de tratamiento.
+title: "Las migrañas en los niños."
+description: ​"Si su hijo presenta síntomas que sugieren una migraña, su pediatra le recomendará un plan de tratamiento."
 categories: hijos
 ads: true
 share: true

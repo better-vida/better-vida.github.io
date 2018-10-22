@@ -9,7 +9,6 @@ ads: true
 share: true
 toc: true
 comments: true
-author: null
 date: 2018-10-23T09:59:00.000Z
 publisher: null
 stats: 

@@ -8,8 +8,6 @@ ads: true
 share: true
 toc: true
 comments: true
-keywords: null
-author: null
 date: 2018-10-22T09:59:00.000Z
 publisher: Guiainfantil.com
 stats: 
