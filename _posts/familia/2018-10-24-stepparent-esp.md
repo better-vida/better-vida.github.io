@@ -1,8 +1,8 @@
 ---
 layout: article
 link: null
-title: Convertirse en padrastro o madrastra
-description: Si bien no hay una fórmula infalible para crear la familia "perfecta", es importante afrontar esta nueva situación con paciencia y tratando de comprender los sentimientos de todos los involucrados.
+title: "Convertirse en padrastro o madrastra"
+description: "Si bien no hay una fórmula infalible para crear la familia "perfecta", es importante afrontar esta nueva situación con paciencia y tratando de comprender los sentimientos de todos los involucrados."
 keywords: padrastro, madrastra, familia, divorcio, hijos, hijastros, relaciones, rol, pareja, vínculo, hijastra, separación, custodia, compartida, convivir, cónyuge, niños, ex, marido, mujer
 author: null
 categories: familia

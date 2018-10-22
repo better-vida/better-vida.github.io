@@ -2,7 +2,7 @@
 layout: article
 link: 
 title: "Nueve pasos para una crianza más eficaz"
-description: A continuación se incluyen nueve consejos para la crianza de un niño que pueden ayudarlo a sentirse más satisfecho como padre y, también, a disfrutar más a sus hijos.
+description: "A continuación se incluyen nueve consejos para la crianza de un niño que pueden ayudarlo a sentirse más satisfecho como padre y, también, a disfrutar más a sus hijos."
 keywords: hijo, hijos, niños, niños, niño, nino, padre, padres, autoestima, disciplina, comunicación, comunicacion
 categories: hijos
 ads: true
