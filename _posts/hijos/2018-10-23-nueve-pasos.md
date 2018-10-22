@@ -9,7 +9,7 @@ ads: true
 share: true
 toc: true
 comments: true
-date: 2018-10-23T09:59:00.000Z
+date: 2018-10-23
 publisher: null
 stats: 
 ---

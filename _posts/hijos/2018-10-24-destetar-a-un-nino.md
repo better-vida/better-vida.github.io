@@ -8,7 +8,7 @@ ads: true
 share: true
 toc: true
 comments: true
-date: 2018-10-22T09:59:00.000Z
+date: 2018-10-22
 publisher: null
 stats: paragraph=27 sentences=60, words=1213
 ---
