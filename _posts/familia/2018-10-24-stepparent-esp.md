@@ -27,7 +27,7 @@ Para un niño, el rol inicial del padrastro o de la madrastra es el de otro adul
 
 Empiece despacio y trate de no precipitar las cosas. Deje que las cosas se desarrollen con naturalidad; los niños se dan cuenta cuando los adultos fingen o no son sinceros. Con el tiempo, podrá desarrollar una relación más profunda y significativa con sus hijastros, que no es necesario que se parezca a la que ellos mantienen con sus padres biológicos.
 
-Los niños que están haciendo un duelo por el fallecimiento de uno de sus progenitores, la separación o el [divorcio](/es/parents/help-child-divorce-esp.html) de sus padres biológicos pueden necesitar tiempo para recuperarse antes de poder aceptarlo a usted como un nuevo padre o madre.
+Los niños que están haciendo un duelo por el fallecimiento de uno de sus progenitores, la separación o el divorcio de sus padres biológicos pueden necesitar tiempo para recuperarse antes de poder aceptarlo a usted como un nuevo padre o madre.
 
 Para aquellos niños cuyos padres biológicos están vivos, el nuevo matrimonio de uno de ellos puede significar el fin de la esperanza de que sus padres biológicos se reconcilien. Incluso si ya han pasado varios años desde la separación, los niños (incluso los que ya son mayores) se suelen aferrar a esta esperanza durante mucho tiempo. Desde la perspectiva de los niños, esta realidad les puede provocar enfado, dolor y confusión.
 
