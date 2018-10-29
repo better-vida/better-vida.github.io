@@ -1,7 +1,7 @@
 ---
 layout: article
 link: 
-title: "La peor etapa de un matrimonio se da a los diez años, según estudio"
+title: "La peor etapa de un matrimonio"
 description: "Luego de que un filme de 1955 protagonizado por Marilyn Monroe llamado 'La comezón del séptimo año' saltó a la fama, se generó una teoría popular en la que se asegura que las parejas entran en una 'crisis matrimonial' a los siete años de estar casados."
 keywords: Matrimonio, crisis, pareja, 10 años, la comezón del séptimo año, estudio
 categories: familia
