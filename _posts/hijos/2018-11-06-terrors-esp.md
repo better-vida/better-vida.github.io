@@ -1,8 +1,8 @@
 ---
 layout: article
 link: null
-title: Terrores nocturnos
-description: Un terror nocturno es un trastorno del sueño que se parece a una pesadilla, con la salvedad de que es mucho más espectacular. Aunque los terrores nocturnos pueden asustar bastante a los padres que los presencian, no suelen ser un motivo de preocupación ni el signo de un problema médico subyacente.
+title: "Terrores nocturnos
+description:Un terror nocturno es un trastorno del sueño que se parece a una pesadilla, con la salvedad de que es mucho más espectacular. Aunque los terrores nocturnos pueden asustar bastante a los padres que los presencian, no suelen ser un motivo de preocupación ni el signo de un problema médico subyacente."
 keywords: kidshealth en español, spanish articles, información para niños, información de la salud, información médica, madres, información para padres, bebés, vacunación, las enfermadades, mamás, familia, pediatra, salud, alimentación, información para adolescentes, los niños, su hijo, su hija, la atención médica, el hospital, su familia, los procedimientos médicos, los miembros de sus familias, pre-adolescentes, el doctor, la doctora, medicina, habla español, el paciente, la ayuda, enfermos, joven, pediatra, preguntas, preguntas para el doctor, para el médico, respuestas, respuestas de la salud, sano, enfermedad, cómo puedo siéntase mejor, cómo puedo conseguir mejor, educación, cuerpo, pregunte, enfermera, consejo, salud de los niños, adolescentes, cabrito, enfermo, mi niño es enfermo, mi bebé es enfermo
 categories: hijos
 date: 2018-11-06
