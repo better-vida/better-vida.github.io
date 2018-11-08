@@ -11,7 +11,6 @@ share: true
 toc: true
 comments: true
 author: null
-date: null
 publisher: null
 ---
 ![](http://familiasana.info/images/hijos/P-terrNocturnos-esHD-AR1.jpg)
