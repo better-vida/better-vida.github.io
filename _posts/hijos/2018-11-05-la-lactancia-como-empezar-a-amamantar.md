@@ -11,7 +11,6 @@ toc: true
 comments: true
 keywords: Cómo empezar a amamantar, lactancia, amamantar, dar el pecho, alimentar recién nacido, mastitis,
 author: Escrito Para Babycenter En Español Aprobado Por La Junta De Asesores Médicos De Babycenter En Español.
-date: null
 publisher: BabyCenter
 
 ---
