@@ -5,6 +5,10 @@ title: "Consejos para la entrada al colegio de los niños
 description: Consejos para la vuelta o entrada al colegio de los niños. Cómo afrontar el regreso a la escuela de nuestros hijos. Vuelta al colegio de los niños tras las vacaciones. Primer día de colegio de los niños."
 keywords: null
 categories: hijos
+ads: true
+share: true
+toc: true
+comments: true
 author: null
 date: 2019-01-23
 publisher: Guiainfantil.com
