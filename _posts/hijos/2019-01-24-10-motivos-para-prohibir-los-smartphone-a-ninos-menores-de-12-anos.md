@@ -20,7 +20,8 @@ Expertos en el tema alertan sobre el riesgo del uso de esos aparatos en bebés y
 
 ## Cómo y cuánto los niños pueden usar los smartphone
 
-motivossmatphone-g 
+![](http://familiasana.info/images/hijos/motivossmatphone-g.jpg)
+
 Hace meses, la _Asociación Japonesa de Pediatría_ empezó una campaña para restringir el uso prolongado de los móviles y tabletas, sugiriendo control y más juegos a los padres. Ahora son la Academia Americana de Pediatría_ ; y la _Sociedad Canadiense de Pediatría_ las que revelan 10 razones por las que los niños menores de 12 no deben usar estos aparatos sin control. Ellos lo tienen claro, los bebés de 0 a 2 años no deben tener contacto alguno con la tecnología; los de 3 a 5 años, debe ser restringido a una hora/día; de 6 a 18 años la restricción debería ser a 2 horas/día.
 
 ## Por qué limitar el acceso de los niños a los móviles o tabletas
